@@ -1,7 +1,7 @@
 # Jomanji
 P2P messaging system made with other colleagues. 
 
-It uses encyption.
+It uses encryption.
 
 Language: Jolie
 
@@ -13,4 +13,4 @@ Files order:
 
 -jolie jomanji.ol 
 
-Develeped because of an exam at University of Bologna.
+Develeped because of an exam at University of Bologna, Operative Systems.
