@@ -1,5 +1,8 @@
 # Jomanji
 P2P messaging system made with other colleagues. 
+
+It uses encyption.
+
 Language: Jolie
 
 Files order:
